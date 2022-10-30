@@ -1,6 +1,6 @@
 # Projeto-Gear-Design
 
-Primeriro projeto do Curso Origamid, aqui foi criado um projeto portifolio.
+Primeriro projeto do Curso Origamid, aqui foi criado um projeto portifolio Lobo..
 
 Aqui foi utilizado HTML, CSS, GIT e deploy no GitHub.
 
